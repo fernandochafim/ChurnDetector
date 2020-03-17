@@ -1,0 +1,5 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^ChurnDetector\.Rproj$
+^cran-comments\.md$
+^README\.Rmd$
